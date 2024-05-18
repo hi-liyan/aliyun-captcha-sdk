@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-阿里云验证码 sdk for rust。
+阿里云验证码2.0 sdk for rust。
 
 ## 实现
 
